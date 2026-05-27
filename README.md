@@ -2,6 +2,8 @@
 
 An interactive Power BI dashboard built using the Global Superstore dataset to analyze sales, profit, customers, product categories, markets, and discount impact.
 
+<img width="1085" height="756" alt="image" src="https://github.com/user-attachments/assets/91f73f67-84ea-42ea-87ec-03ec497bf22c" />
+
 ## Project Overview
 
 This project focuses on building a business intelligence dashboard that helps users understand overall business performance, identify profitable and loss-making areas, and explore sales trends across markets, countries, customer segments, and product categories.
@@ -47,6 +49,5 @@ The dataset used is the Global Superstore dataset downloaded from Kaggle.
 
 The raw dataset is not redistributed in this repository. Please refer to the original Kaggle source for dataset access.
 
-## Dashboard Preview
 
-<img width="1085" height="756" alt="image" src="https://github.com/user-attachments/assets/91f73f67-84ea-42ea-87ec-03ec497bf22c" />
+
